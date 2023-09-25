@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yephone Aung</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
+<h3 align="center">A passionate backend developer from Myanmar</h3>
 
 <div align="center">
   <p>
