@@ -45,13 +45,11 @@
 </div>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=autarch1&show_icons=true&locale=en&layout=compact" alt="autarch1" /></p>
-</div>
+  <div style="display: flex; flex-direction: column; gap: 20px;">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=autarch1&show_icons=true&locale=en&layout=compact" alt="autarch1" /></p>
 
-<div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=autarch1&show_icons=true&locale=en" alt="autarch1" /></p>
-</div>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=autarch1&show_icons=true&locale=en" alt="autarch1" /></p>
 
-<div align="center">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=autarch1&" alt="autarch1" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=autarch1&" alt="autarch1" /></p>
+  </div>
 </div>
