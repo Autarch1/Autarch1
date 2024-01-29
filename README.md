@@ -12,10 +12,13 @@ I'm currently working on React Native Project<br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zezss7lkhyvcs3w5wbapp7mygu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zezss7lkhyvcs3w5wbapp7mygu&redirect=true)
 
+##
+<img align="right"  height="300" width="300" src="https://i.pinimg.com/originals/87/24/9d/87249d5937864d317db47a2bc2d7865b.gif"  />
 
-###
 
-<img align="right" height="300" src="https://i.makeagif.com/media/2-13-2021/pOS-yQ.gif"  />
+
+
+
 
 ###
 
