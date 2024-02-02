@@ -1,4 +1,4 @@
-# 💫 About Me: Just a noraml npc guy <br>
+# 💫 About Me: Junior Mobile Dev (React Native) <br>
 
 
 ## 🌐 Socials:
