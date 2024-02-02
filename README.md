@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently working on React Native Project<br>
+# 💫 About Me: Just a noraml npc guy <br>
 
 
 ## 🌐 Socials:
