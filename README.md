@@ -1,24 +1,29 @@
-# 💫 About Me: Junior Mobile Dev (React Native) <br>
 
+
+<h1 align="center"> 💫 Hi 👋, I'm Ye Phone Aung</h1>
+
+- 🔭 I’m currently working on **Banking Project**
+
+- 🌱 I’m currently learning **NextJs,DSA**
+
+- 💬 Ask me about **React Native**
+
+- 📫 How to reach me **yephoneaung33002@gmail.com**
+
+- ⚡ Fun fact **I like reading webtoon**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/san1ty_30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ye-phone-aung-25aa7522b/) 
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zezss7lkhyvcs3w5wbapp7mygu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zezss7lkhyvcs3w5wbapp7mygu&redirect=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Autarch1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zezss7lkhyvcs3w5wbapp7mygu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zezss7lkhyvcs3w5wbapp7mygu&redirect=true)
-
 ##
 
-
-
-
-
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -53,11 +58,18 @@
 
 </div>
 
-###
-![Autarch1's Stats](https://github-readme-stats.vercel.app/api?username=Autarch1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Autarch1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Autarch1&theme=vue-dark&hide_border=true)
-![Autarch1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Autarch1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Autarch1&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Autarch1&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Autarch1&theme=radical&hide_border=false" alt="GitHub Streak">
+</div>
+
+##
+
 [![](https://visitcount.itsvg.in/api?id=Autarch1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
